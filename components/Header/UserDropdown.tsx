@@ -16,7 +16,7 @@ const UserDropdown = () => {
         <div className="flex items-center justify-end gap-2">
           <div className="sm:flex hidden flex-col justify-start items-end gap-0.5">
             <h1 className="text-base">Tony Zha Shang</h1>
-            <h2 className="text-xs">Shareholder</h2>
+            <h2 className="text-xs">Director</h2>
           </div>
           <Avatar>
             <AvatarImage src="/user/user-05.png" />
