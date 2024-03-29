@@ -12,7 +12,7 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "Director",
+  title: "Shareholder",
   description:
     "This is a ComSec360 Admin Dashboard for Account User of a Single Company",
 };

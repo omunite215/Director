@@ -13,7 +13,7 @@ const Main = () => {
     <Card className="my-6">
       <CardHeader className="flex flex-row justify-between items-center">
         <CardDescription>Tencent Games Pvt. Ltd / Director</CardDescription>
-        <CardTitle>Ma Heauteng</CardTitle>
+        <CardTitle>Tony Zha Shang</CardTitle>
         <CardDescription>Person</CardDescription>
       </CardHeader>
       <CardContent className="space-y-6">
