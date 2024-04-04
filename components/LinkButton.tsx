@@ -1,15 +1,15 @@
+import Link from "next/link";
 import { buttonVariants } from "./ui/button";
-import { Download } from "lucide-react";
 
 const LinkButton = ({ href }: { href: string }) => {
   return (
-    <a
+    <Link
       href={href}
-      download
-      className={buttonVariants({ variant: "secondary" })}
+      target="_blank"
+      className={buttonVariants({ variant: "outline" })}
     >
-      <Download/>
-    </a>
+      Print & Preview
+    </Link>
   );
 };
 
