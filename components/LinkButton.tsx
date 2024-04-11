@@ -8,7 +8,7 @@ const LinkButton = ({ href }: { href: string }) => {
       target="_blank"
       className={buttonVariants({ variant: "outline" })}
     >
-      Print & Preview
+      Preview
     </Link>
   );
 };
